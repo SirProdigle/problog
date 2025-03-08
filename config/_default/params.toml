@@ -94,11 +94,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
+  cardView = true
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
@@ -112,7 +112,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
+  cardViewScreenWidth = true
 
 [term]
   showHero = false
@@ -122,8 +123,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
+  cardView = true
+  cardViewScreenWidth = true
 
 [firebase]
   # apiKey = "XXXXXX"
