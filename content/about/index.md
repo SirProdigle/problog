@@ -2,24 +2,22 @@
 title: "About"
 description: "About me"
 date: 2025-03-08T00:00:31.000Z
-cascade:
-  showReadingTime: false
-  showAuthor: false
-  showDate: false
-  showDateUpdated: false
-  showWordCount: false
-  showTaxonomies: false
-  showTags: false
-  showTableOfContents: false
-  showHero: false
-  showPagination: false
-  showZenMode: false
-  showViews: false
-  showLikes: false
-  showDraftLabel: false
-  showEdit: false
-  sharing: false
-  sharingLinks: false
+showReadingTime: false
+showDate: false
+showDateUpdated: false
+showWordCount: false
+showTaxonomies: false
+showTags: false
+showTableOfContents: false
+showHero: false
+showPagination: false
+showZenMode: false
+showViews: false
+showLikes: false
+showDraftLabel: false
+showEdit: false
+sharing: false
+sharingLinks: false
 ---
 {{< lead >}}
 👋 Hi! I'm Liam, a game/software developer from the UK with a passion for all things retro 🕹️. I love creating digital experiences that blend modern tech with nostalgic vibes! ✨
