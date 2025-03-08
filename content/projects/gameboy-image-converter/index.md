@@ -84,17 +84,34 @@ The tool handles all the technical aspects for you:
 - Adjust the sliders to your desired number of colors
 - Click "Convert Image"
 
+{{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
+If your image has harsh color edges, you may want to try reducing the number of colors or changing the <em>Quantization Method</em>
+{{< /alert >}}
+
+{{< figure
+    src="color-limit.png"
+    alt="Palette Limits"
+    caption="Limiting the image to 10 total colors across 8 different 4-color palettes"
+>}}
+
 ## How to do hardware-accurate tile limits?
 - Check the "Reduce to 192 unique 8x8 tiles (Not needed for LOGO scene mode)" box
 - Adjust the "Tile similarity threshold" slider. This will merge tiles that share the % of pixels specified. Raising or lowering this will change how tiles are merged & reduced.
 - Click "Convert Image"
-  {{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
-  If you see <em>"Out of spare tiles"</em> in the console, then your image is too complex for the similarity threshold you've set, and you should lower it.
-  {{< /alert >}}
-  
-  {{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
-  If you see <em>"Consider increasing Tile Similarity Threshold"</em> in the console, then your image is too simple for the similarity threshold you've set, and you should consider raising it.
-  {{< /alert >}}
+
+{{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
+If you see <em>"Out of spare tiles"</em> in the console, then your image is too complex for the similarity threshold you've set, and you should lower it.
+{{< /alert >}}
+<br />
+{{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
+If you see <em>"Consider increasing Tile Similarity Threshold"</em> in the console, then your image is too simple for the similarity threshold you've set, and you should consider raising it.
+{{< /alert >}}
+
+{{< figure
+    src="tile-limit.png"
+    alt="Tile Limits"
+    caption="Merging all tiles that share 90% of their pixels"
+>}}
 
 {{< alert "wand-magic-sparkles" >}}
 Try it yourself at [gameboy.prodigle.dev](https://gameboy.prodigle.dev)
