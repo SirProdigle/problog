@@ -42,11 +42,7 @@ sharingLinks: false
 
 Here are some of the projects I'm most proud of:
 
-{{< article link="/projects/project1" >}}
-
-{{< article link="/projects/project2" >}}
-
-{{< article link="/projects/project3" >}}
+{{< article link="/projects/gameboy-image-converter" >}} 
 
 ## 🌟 Touching Grass 🌟
 
