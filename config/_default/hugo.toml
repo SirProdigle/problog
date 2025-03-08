@@ -32,6 +32,12 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
+
 [related]
   threshold = 0
   toLower = false
