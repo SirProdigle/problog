@@ -18,6 +18,7 @@ replyByEmail = false
 # robots = ""
 
 disableImageOptimization = false
+disableImageZoom = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
