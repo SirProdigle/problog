@@ -4,8 +4,6 @@ description: "This is a test post"
 date: 2025-03-07T23:56:59.823Z
 preview: ""
 draft: false
-tags: [LOL]
-categories: [LOL]
 ---
 
 ## Hello World!

@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "About me"
+date: 2025-03-08T00:00:31.000Z
 cascade:
   showReadingTime: false
   showAuthor: false
