@@ -79,6 +79,23 @@ The tool handles all the technical aspects for you:
     caption="The simple interface makes conversion easy for everyone"
     >}}
 
+## How to do hardware-accurate palette limits?
+- Check the "Limit to 4 colors per tile, 8 palettes (For GB Studio development only)" box
+- Adjust the sliders to your desired number of colors
+- Click "Convert Image"
+
+## How to do hardware-accurate tile limits?
+- Check the "Reduce to 192 unique 8x8 tiles (Not needed for LOGO scene mode)" box
+- Adjust the "Tile similarity threshold" slider. This will merge tiles that share the % of pixels specified. Raising or lowering this will change how tiles are merged & reduced.
+- Click "Convert Image"
+  {{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
+  If you see <em>"Out of spare tiles"</em> in the console, then your image is too complex for the similarity threshold you've set, and you should lower it.
+  {{< /alert >}}
+  
+  {{< alert icon="triangle-exclamation" cardColor="#cc7000" iconColor="#1d3557" textColor="#f1faee" >}}
+  If you see <em>"Consider increasing Tile Similarity Threshold"</em> in the console, then your image is too simple for the similarity threshold you've set, and you should consider raising it.
+  {{< /alert >}}
+
 {{< alert "wand-magic-sparkles" >}}
 Try it yourself at [gameboy.prodigle.dev](https://gameboy.prodigle.dev)
 {{< /alert >}}
