@@ -17,6 +17,7 @@ cascade:
   showLikes: false
   showDraftLabel: false
   showEdit: false
+  sharing: false
   sharingLinks: false
 ---
 {{< lead >}}
@@ -65,5 +66,3 @@ When I'm not coding, you can find me:
 {{< icon "discord" >}} **Discord**: [Orbital Game Dev Discord](https://discord.gg/87B8dR9)
 
 Got a question or want to collaborate? Feel free to reach out via email. Check out my GitHub for open-source projects and game prototypes, or join our game development Discord community to connect with fellow developers!
-
-</div>
