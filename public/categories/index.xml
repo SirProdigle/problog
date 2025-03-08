@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Prodigle.dev</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://prodigle.dev/categories/</link>
     <description>Recent content in Categories on Prodigle.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>liam@prodigle.dev (Liam)</managingEditor>
-    <webMaster>liam@prodigle.dev (Liam)</webMaster>
-    <copyright>© 2025 Liam</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>liam@prodigle.dev (Liam Warner)</managingEditor>
+    <webMaster>liam@prodigle.dev (Liam Warner)</webMaster>
+    <copyright>© 2025 Liam Warner</copyright>
+    <lastBuildDate>Fri, 07 Mar 2025 23:56:59 +0000</lastBuildDate><atom:link href="https://prodigle.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LOL</title>
+      <link>https://prodigle.dev/categories/lol/</link>
+      <pubDate>Fri, 07 Mar 2025 23:56:59 +0000</pubDate>
+      <author>liam@prodigle.dev (Liam Warner)</author>
+      <guid>https://prodigle.dev/categories/lol/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

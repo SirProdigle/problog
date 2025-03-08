@@ -15,22 +15,17 @@ title = "Prodigle.dev"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Liam"
+   name = "Liam Warner"
    email = "liam@prodigle.dev"
    image = "img/blowfish_logo.png"
    imageQuality = 96
-   headline = "Game & Software developer"
+   headline = "Game & Software Developer"
    bio = "Game & Software developer with an interest in all things retro"
    links = [
      { email = "mailto:liam@prodigle.dev" },
      { discord = "https://discord.gg/87B8dR9" },
      { github = "https://github.com/sirprodigle" },
-     { google = "https://www.google.com/" },
      { itch-io = "https://prodigle.itch.io" },
-     { reddit = "https://reddit.com/user/prodigle" },
-     { stack-overflow = "https://stackoverflow.com/users/6534880/prodigle" },
-     { steam = "https://steamcommunity.com/id/Prodigle/" },
      { twitch = "https://twitch.tv/prodigle" },
-     { youtube = "https://youtube.com/sirprodigle" },
      { ko-fi = "https://ko-fi.com/prodigle" }
    ]

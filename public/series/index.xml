@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Prodigle.dev</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://prodigle.dev/series/</link>
     <description>Recent content in Series on Prodigle.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>liam@prodigle.dev (Liam)</managingEditor>
-    <webMaster>liam@prodigle.dev (Liam)</webMaster>
-    <copyright>© 2025 Liam</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>liam@prodigle.dev (Liam Warner)</managingEditor>
+    <webMaster>liam@prodigle.dev (Liam Warner)</webMaster>
+    <copyright>© 2025 Liam Warner</copyright>
+    <atom:link href="https://prodigle.dev/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
