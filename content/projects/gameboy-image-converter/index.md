@@ -5,7 +5,6 @@ date: 2025-03-08T00:15:06.000Z
 showReadingTime: false
 showDate: false
 showWordCount: false
-show
 keywords: ["Gameboy", "Image Converter", "Gradio", "Python", "NumPy", "scikit-image", "scikit-learn", "SciPy"]
 categories: ["Gameboy"]
 tags: ["Gameboy", "GB Studio", "Python"]
