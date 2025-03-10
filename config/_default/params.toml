@@ -82,7 +82,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showAuthorsBadges = false
   showWordCount = true
   sharingLinks = ["twitter", "bluesky", "mastodon", "reddit"]
-  showZenMode = true
+  showZenMode = false
 
 [list]
   showHero = false
