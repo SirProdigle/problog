@@ -26,10 +26,10 @@
   weight = 30
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Series"
+  pageRef = "series"
   weight = 40
-
+  
 #[[main]]
 #  identifier = "github"
 #  url = "https://github.com/sirprodigle"

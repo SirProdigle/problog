@@ -9,7 +9,7 @@ title = "Prodigle.dev"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  # logo = "profile.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Prodigle.dev"
  [params.author]
    name = "Liam Warner"
    email = "liam@prodigle.dev"
-   image = "img/blowfish_logo.png"
+   image = "profile.jpg"
    imageQuality = 96
    headline = "Game & Software Developer"
    bio = "Game & Software developer with an interest in all things retro"
