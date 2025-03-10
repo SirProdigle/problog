@@ -1,6 +1,6 @@
 ---
 title: "GBVM Essentials: Crafting Overlays & Interactive Menus"
-description: "An intro to the GBVM, a virtual machine for the Gameboy and Gameboy Color, used by GB Studio. Learn how to create overlays and interactive menus with GBVM."
+description: "Dive into GBVM, the virtual machine powering GB Studio games. This guide shows you how to create custom overlays and interactive menus that go beyond the standard GB Studio interface."
 date: 2025-03-09
 keywords: ["Gameboy", "GBVM", "GB Studio", "GBC","GB Studio", "GBVM Essentials", "Interactive Menus", "Overlays"]
 categories: ["Gameboy"]
