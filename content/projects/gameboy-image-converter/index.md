@@ -1,5 +1,5 @@
 ---
-title: "Gameboy Image Converter"
+title: "PROJECT: Gameboy Image Converter"
 description: "A Gradio-based tool for converting images into authentic Game Boy & Game Boy Colour graphics"
 date: 2025-03-08T00:15:06.000Z
 showReadingTime: false
