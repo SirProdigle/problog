@@ -23,9 +23,6 @@ title = ""
    bio = "Game & Software developer with an interest in all things retro"
    links = [
      { email = "mailto:liam@prodigle.dev" },
-     { discord = "https://discord.gg/87B8dR9" },
      { github = "https://github.com/sirprodigle" },
-     { itch-io = "https://prodigle.itch.io" },
-     { twitch = "https://twitch.tv/prodigle" },
      { ko-fi = "https://ko-fi.com/prodigle" }
    ]

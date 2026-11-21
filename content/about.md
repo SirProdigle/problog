@@ -57,7 +57,6 @@ When I'm not coding, you can find me:
 ## 🤝 Let's Connect! 🤝
 
 {{< icon "envelope" >}} **Email**: [liam@prodigle.dev](mailto:liam@prodigle.dev)  
-{{< icon "github" >}} **GitHub**: [SirProdigle](https://github.com/sirprodigle)  
-{{< icon "discord" >}} **Discord**: [Orbital Game Dev Discord](https://discord.gg/87B8dR9)
+{{< icon "github" >}} **GitHub**: [SirProdigle](https://github.com/sirprodigle)
 
-Got a question or want to collaborate? Feel free to reach out via email. Check out my GitHub for open-source projects and game prototypes, or join our game development Discord community to connect with fellow developers!
+Got a question or want to collaborate? Feel free to reach out via email. Check out my GitHub for open-source projects and game prototypes.
